@@ -12,6 +12,12 @@ a progressive Javascript framework.
 
 **We also have a forum for any type of concerns, feature requests, or discussions. Please visit: [Krayin CRM Forums](https://forums.krayincrm.com/)**
 
+
+### Requirements:
+
+* **Krayin**: v2.0.1 or higher.
+
+
 ### What is Docker?
 
 Docker is an open platform for developing, shipping, and running applications. Docker enables you to separate your applications from your infrastructure so you can deliver software quickly. With Docker, you can manage your infrastructure in the same ways you manage your applications. Docker can also be used for defining and running multi-container Docker applications using Docker-Compose tool.
