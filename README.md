@@ -15,7 +15,7 @@ a progressive Javascript framework.
 
 ### Requirements:
 
-* **Krayin**: v2.0.1 or higher.
+* **Krayin**: v2.0.0 or higher.
 
 
 ### What is Docker?
