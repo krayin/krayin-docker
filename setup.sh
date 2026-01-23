@@ -32,7 +32,7 @@ docker exec ${apache_container_id} git clone https://github.com/krayin/laravel-c
 
 # setting krayin stable version
 echo "Now, setting up Krayin stable version..."
-docker exec -i ${apache_container_id} bash -c "cd krayin && git reset --hard v2.0.1"
+docker exec -i ${apache_container_id} bash -c "cd krayin && git reset --hard v2.1.6"
 
 # installing composer dependencies inside container
 docker exec -i ${apache_container_id} bash -c "cd krayin && composer install"
